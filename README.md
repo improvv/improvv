@@ -1,8 +1,6 @@
 <div align=center><h1>Welcome!👋 How's your coding going🤡</h1></div>
 
-<hr>
-
-<div align=center><h3>⌨️ My Tech </h3></div>
+<div align=center><h2>⌨️ My Tech </h2></div>
 <div align=center>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
