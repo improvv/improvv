@@ -1,4 +1,4 @@
-<div align=center><h1>Hi! How's your coding going🤡
+<div align=center><h1>Hi! How's your coding going🤡 <br>
 👋 I’m Improvv </h1></div>
 
 <hr>
@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<br><br>
 </div>
 
 <div align=center>
