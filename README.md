@@ -1,10 +1,11 @@
-<div align=center><h1>Hi! How's your coding going🤡</h1>
-<h1>👋I’m Improvv </h1></div>
+<div align=center><h1>Hi! How's your coding going🤡
+👋 I’m Improvv </h1></div>
 
 <hr>
 
 <div align=center><h3>⌨️ My Tech </h3></div>
 <div align=center>
+<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -29,17 +30,17 @@
 ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
 
 
-<a href="https://byul91oh.tistory.com/">
+<a href="https://howsitgoin.tistory.com">
     <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://howsitgoin.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/fivepxint">
+</a> <a href="https://instagram.com/improvv_dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/improvv_dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:quf8093@gmail.com">
+</a> <a href="mailto:jinjeong619@gmail.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jinjeong619@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
