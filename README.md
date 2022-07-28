@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <br><br>
 </div>
-
+<hr>
 <div align=center>
 
 ![Improvv's github stats](https://github-readme-stats.vercel.app/api?username=improvv&show_icons=true&theme=radical) 
