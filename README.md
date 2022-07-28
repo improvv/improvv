@@ -12,13 +12,13 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<div align=center><h1>👋 Hi, I’m @ohbyul </h1></div>
+<div align=center><h1>👋 Hi, I’m Improvv </h1></div>
 
 <div align=center>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohbyul&show_icons=true&theme=radical) 
+![Improvv's github stats](https://github-readme-stats.vercel.app/api?username=improvv&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=improvv&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 <hr>
 
