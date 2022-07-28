@@ -1,6 +1,10 @@
-<h1>Hi! How's your coding going🤡</h1>
+<div align=center><h1>Hi! How's your coding going🤡</h1></div>
+<div align=center><h1>👋 Hi, I’m Improvv </h1></div>
 
-<h3>⌨️ My Tech </h3>
+<hr>
+
+<div align=center><h3>⌨️ My Tech </h3></div>
+<div align=center>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -11,8 +15,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-<div align=center><h1>👋 Hi, I’m Improvv </h1></div>
+</div>
 
 <div align=center>
 
