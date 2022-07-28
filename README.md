@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi! How's your coding going🤡
+
+### My Tech
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-#E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=White"/>
 
 <!--
 **improvv/improvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
