@@ -25,7 +25,7 @@ Techs that I've used at least once</div>
 
 ![Improvv's github stats](https://github-readme-stats.vercel.app/api?username=improvv&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=improvv&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=improvv&layout=compact&theme=dracula)]
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinjeong619)](https://solved.ac/jinjeong619)
     백준
