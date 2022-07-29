@@ -26,10 +26,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=improvv&layout=compact&theme=dracula)](https://github.com/metleeha)
 
+<div id="백준">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jinjeong619)](https://solved.ac/jinjeong619)
     
 <img src="http://mazandi.herokuapp.com/api?handle=jinjeong619&theme=warm"/>
-
+</div>
 <hr>
 
 [![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinjeong619&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
