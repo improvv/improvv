@@ -42,7 +42,7 @@ Techs that I've used at least once</div>
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://instagram.com/improvv_dev">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/improvv_dev/"
+        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/improvv_dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:jinjeong619@gmail.com">
     <img 
