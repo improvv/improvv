@@ -1,7 +1,7 @@
 <div align=center><h1>Welcome!👋 How's your coding going🤡</h1></div>
 
 <div align=center><h2>🛠Tech Stack🛠</h2>
-<h4>Techs that I've used at least once</h4></div>
+Techs that I've used at least once</div>
 
 <div align=center>
 <br>
