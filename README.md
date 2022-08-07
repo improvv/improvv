@@ -33,7 +33,7 @@ Techs that I've used at least once</div>
 
 <hr>
 
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinjeong619&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimprovv%2Fhit-counter&count_bg=%239EC8FF&title_bg=%238DAEFF&icon=codeigniter.svg&icon_color=%23F7D4D4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/improvv?style=social)
 
 <a href="https://howsitgoin.tistory.com">
