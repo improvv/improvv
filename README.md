@@ -29,7 +29,7 @@
 | :-- | :-- | :-- |
 | 2026.03 – present | 🦁 **LIKELION** | Manager · running projects and teams |
 | 2026.01 – 2026.06 | 🔧 **Robert Bosch Korea** | Intern · Technical Sales |
-| Capstone | 🏋️ **BPT** · AI posture analysis training app | Frontend & PM |
+| 2026 Capstone | 🏋️ **BPT** · AI posture analysis training app | Frontend, UI/UX Design & PM |
 
 <br/>
 
@@ -37,11 +37,11 @@
 
 | Project | About | Stack |
 | :-- | :-- | :-- |
-| [**Connect to ETF**](https://github.com/improvv/connect-to-etf) | ETF Q&A chatbot PoC with RAG | `Python` `Streamlit` |
-| [**대전 빵사대**](https://github.com/improvv/daejeon-bakery-app) | Location-based bakery finder for Daejeon | `Flutter` `Dart` |
-| [**도라에몽의 핑계빵**](https://github.com/improvv/doraemon-excuse-bread) | Typing game about exam-season excuses | `JavaScript` `Flask` |
-| [**견주여행**](https://github.com/Gyeonju-Travel/FE) | Dog-friendly travel app for Gyeongju with map, schedules & stamps | `React Native` `Expo` `TypeScript` `Java` |
+| [**견주여행**](https://github.com/Gyeonju-Travel/FE) | Dog-friendly travel app for Gyeongju with map, schedules & stamps · **Released on the iOS App Store** · [App Store](https://apps.apple.com/kr/app/id6802208144) | `React Native` `Expo` `TypeScript` `Java` |
 | [**WHS After Mate**](https://github.com/WHS-After-Mate/Backend) | Aftercare app for wellness clinic patients with LLM-powered daily guides & Q&A | `Node.js` `TypeScript` `Supabase` `OpenAI` |
+| [**Connect to ETF**](https://github.com/improvv/connect-to-etf) | ETF Q&A chatbot PoC with RAG | `Python` `Streamlit` |
+| [**도라에몽의 핑계빵**](https://github.com/improvv/doraemon-excuse-bread) | Typing game about exam-season excuses | `JavaScript` `Flask` |
+| [**대전 빵사대**](https://github.com/improvv/daejeon-bakery-app) | Location-based bakery finder for Daejeon | `Flutter` `Dart` |
 
 <br/>
 
