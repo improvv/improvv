@@ -50,7 +50,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,java,spring,mysql,html,css,js,git,github,linux&perline=7" alt="Tech stack" />
+**Computer Vision & AI**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=7" alt="CV & AI stack" />
+
+![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
+![MMPose](https://img.shields.io/badge/MMPose-RTMPose-B9A7F5?style=flat-square)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+
+<br/>
+
+**App · Web · Etc.**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,spring,mysql,html,css,js,git,github,linux&perline=7" alt="Tech stack" />
 
 </div>
 
