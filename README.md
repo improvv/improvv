@@ -34,6 +34,15 @@
 
 <br/>
 
+## 🔬 Ongoing Research
+
+| Period | Project | Course |
+| :-- | :-- | :-- |
+| 2026.09 – present | **Lightweight Deep Learning for Resource-Constrained Environments**<br/>Pruning, quantization & knowledge distillation · analyzing EfficientSAM (CVPR 2024) · comparing model size, inference speed & segmentation performance | Internet of Things · Team Project |
+| 2026.09 – present | **Null-Argument Tracking in Korean Multi-Turn Dialogue**<br/>Evaluation framework under speaker, addressee & discourse-entity shifts | Natural Language Processing · Team Project |
+
+<br/>
+
 ## 🍞 Projects
 
 | Project | About | Stack |
