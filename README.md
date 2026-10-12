@@ -20,7 +20,7 @@
 - 👀 Interested in **computer vision**
 - 🦁 Managing projects and teams at **LIKELION**
 - ✍️ Writing about what I learn at [howsitgoin.tistory.com](https://howsitgoin.tistory.com)
-- 🏛️ See all my work at my [portfolio](https://improvv.github.io/portfolio/)
+- ☄️ See all my work at my [portfolio](https://improvv.github.io/portfolio/)
 
 <br/>
 
