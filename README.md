@@ -20,6 +20,7 @@
 - 👀 Interested in **computer vision**
 - 🦁 Managing projects and teams at **LIKELION**
 - ✍️ Writing about what I learn at [howsitgoin.tistory.com](https://howsitgoin.tistory.com)
+- 🏛️ See all my work at my [portfolio](https://improvv.github.io/portfolio/)
 
 <br/>
 
@@ -83,6 +84,7 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-improvv.github.io-9ADBC5?style=flat-square&logo=githubpages&logoColor=white)](https://improvv.github.io/portfolio/)
 [![Blog](https://img.shields.io/badge/Blog-howsitgoin.tistory.com-B9A7F5?style=flat-square&logo=tistory&logoColor=white)](https://howsitgoin.tistory.com)
 [![Gmail](https://img.shields.io/badge/Gmail-jinjeong619%40gmail.com-F5A3BF?style=flat-square&logo=gmail&logoColor=white)](mailto:jinjeong619@gmail.com)
 
