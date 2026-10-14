@@ -1,61 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Hi, I'm Jinjeong">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Jinjeong</title>
+  <desc id="desc">A pastel notebook-inspired banner. Computer vision, thoughtful apps, and a little curiosity.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.6">
-      <stop offset="0" stop-color="#d9f5ec"/>
-      <stop offset="0.55" stop-color="#e6e4fb"/>
-      <stop offset="1" stop-color="#fde4ec"/>
+    <linearGradient id="paper" x2="1" y2="1">
+      <stop stop-color="#f1f8ef"/>
+      <stop offset=".55" stop-color="#f2edfa"/>
+      <stop offset="1" stop-color="#fcece8"/>
     </linearGradient>
-    <clipPath id="clip"><rect width="1200" height="260" rx="24"/></clipPath>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#88769b" stroke-opacity=".09"/>
+    </pattern>
+    <clipPath id="round"><rect x="1" y="1" width="1198" height="358" rx="28"/></clipPath>
   </defs>
-
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="260" fill="url(#bg)"/>
-
-    <!-- soft waves -->
-    <path fill="#ffffff" fill-opacity="0.45" d="M0 205 C 200 170, 380 240, 600 205 S 1000 170, 1200 205 V260 H0 Z">
-      <animate attributeName="d" dur="7s" repeatCount="indefinite"
-        values="M0 205 C 200 170, 380 240, 600 205 S 1000 170, 1200 205 V260 H0 Z;
-                M0 200 C 220 235, 400 175, 600 200 S 980 235, 1200 200 V260 H0 Z;
-                M0 205 C 200 170, 380 240, 600 205 S 1000 170, 1200 205 V260 H0 Z"/>
-    </path>
-    <path fill="#b9a7f5" fill-opacity="0.28" d="M0 228 C 240 208, 420 252, 640 228 S 1020 206, 1200 228 V260 H0 Z">
-      <animate attributeName="d" dur="5s" repeatCount="indefinite"
-        values="M0 228 C 240 208, 420 252, 640 228 S 1020 206, 1200 228 V260 H0 Z;
-                M0 232 C 220 250, 440 212, 640 232 S 1000 250, 1200 226 V260 H0 Z;
-                M0 228 C 240 208, 420 252, 640 228 S 1020 206, 1200 228 V260 H0 Z"/>
-    </path>
-
-    <!-- floating bubbles -->
-    <g fill="#ffffff" fill-opacity="0.8">
-      <circle cx="90" cy="60" r="7"><animate attributeName="cy" values="60;48;60" dur="4s" repeatCount="indefinite"/></circle>
-      <circle cx="1100" cy="70" r="10"><animate attributeName="cy" values="70;56;70" dur="5s" repeatCount="indefinite"/></circle>
-      <circle cx="1040" cy="150" r="5"><animate attributeName="cy" values="150;140;150" dur="3.5s" repeatCount="indefinite"/></circle>
-      <circle cx="170" cy="170" r="5"><animate attributeName="cy" values="170;160;170" dur="4.5s" repeatCount="indefinite"/></circle>
-    </g>
-
-    <!-- sparkles -->
-    <g fill="#b9a7f5">
-      <path d="M230 52 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4 z">
-        <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
-      </path>
-      <path d="M960 190 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 z">
-        <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
-      </path>
-    </g>
-    <g fill="#f5a3bf">
-      <path d="M1000 42 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3 z">
-        <animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/>
-      </path>
-      <path d="M140 118 l2.5 6 6 2.5 -6 2.5 -2.5 6 -2.5 -6 -6 -2.5 6 -2.5 z">
-        <animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/>
-      </path>
-    </g>
-
-    <!-- text -->
-    <g text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
-      <text x="600" y="98" font-size="22" font-weight="600" fill="#6b7a8f" letter-spacing="1">Hi there, I'm</text>
-      <text x="600" y="152" font-size="54" font-weight="800" fill="#3b4a5e" letter-spacing="-0.5">Jinjeong</text>
-      <text x="600" y="188" font-size="18" fill="#6b7a8f">Computer Engineering @ Hanbat National University</text>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#paper)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <circle cx="1130" cy="32" r="160" fill="#e4dcf5" opacity=".55"/>
+    <circle cx="810" cy="390" r="160" fill="#d4eee1" opacity=".65"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+      <rect x="64" y="52" width="182" height="30" rx="15" fill="#fff" fill-opacity=".8"/>
+      <circle cx="81" cy="67" r="4" fill="#729e83"/>
+      <text x="95" y="72" font-size="12" font-weight="600" letter-spacing="2" fill="#5f566e">IMPROVV / NOTES</text>
+      <text x="64" y="139" font-size="25" fill="#796d88">Hi there, I'm</text>
+      <text x="60" y="213" font-size="76" font-weight="750" letter-spacing="-3" fill="#40364f">Jinjeong<tspan fill="#9d88c6">.</tspan></text>
+      <text x="66" y="258" font-size="20" fill="#70647f">Computer vision, thoughtful apps,</text>
+      <text x="66" y="288" font-size="20" fill="#70647f">and a little curiosity.</text>
+      <g transform="translate(816 66) rotate(7 130 110)">
+        <rect x="7" y="9" width="260" height="228" rx="18" fill="#85729f" opacity=".09"/>
+        <rect width="260" height="228" rx="18" fill="#fffdfb" stroke="#e2d8eb"/>
+        <rect x="81" y="-12" width="98" height="27" rx="3" fill="#d8c8ed" opacity=".85"/>
+        <text x="26" y="51" font-size="12" letter-spacing="2" fill="#9b88b0">THINGS I GROW</text>
+        <path d="M130 147V102 M130 124C101 124 95 104 101 94C121 94 130 108 130 124 M130 113C130 89 148 80 161 84C161 103 147 113 130 113" fill="#b7d8bf" stroke="#729b7d" stroke-width="3" stroke-linejoin="round"/>
+        <path d="M105 143H155L149 170H111Z" fill="#d6c6e9" stroke="#a48bbb" stroke-width="2"/>
+        <text x="130" y="202" text-anchor="middle" font-size="14" fill="#7b6b8c">ideas · code · little steps</text>
+      </g>
+      <path d="M773 71v20m-10-10h20 M1113 262v24m-12-12h24" stroke="#ac95c6" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="773" cy="254" r="5" fill="#d8a5b6"/>
+      <circle cx="1117" cy="105" r="4" fill="#93bca5"/>
     </g>
   </g>
+  <rect x="1" y="1" width="1198" height="358" rx="28" fill="none" stroke="#e6dfee"/>
 </svg>
