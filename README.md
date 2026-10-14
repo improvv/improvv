@@ -129,15 +129,15 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 **Computer Vision & AI**
 
-![Python](https://img.shields.io/badge/Python-171717?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-171717?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-171717?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-171717?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-171717?style=flat-square) ![MMPose / RTMPose](https://img.shields.io/badge/MMPose%20%2F%20RTMPose-171717?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-171717?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-171717?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-171717?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-007F8B?style=flat-square) ![MMPose / RTMPose](https://img.shields.io/badge/MMPose%20%2F%20RTMPose-7952B3?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-147D64?style=flat-square)
 
 **App & Web**
 
-![Flutter](https://img.shields.io/badge/Flutter-171717?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-171717?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-171717?style=flat-square) ![Java](https://img.shields.io/badge/Java-171717?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-171717?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-171717?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-171717?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-027DB5?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD7400?style=flat-square&logo=firebase&logoColor=white) ![Java](https://img.shields.io/badge/Java-B44925?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-43852D?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-D54824?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E8BD30?style=flat-square&logo=linux&logoColor=171717)
 
 <a id="a-little-corner-of-my-github"></a>
 
@@ -158,9 +158,9 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/improvv/improvv/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial.svg" />
 </picture>
 
 </div>
