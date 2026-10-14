@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Hi, I'm Jinjeong — Computer Vision, thoughtful apps, and a little curiosity." />
-
-**Computer Engineering @ Hanbat National University**<br/>
-Computer vision · Building apps · Learning in public
+<img src="./assets/header.svg" width="100%" alt="Jinjeong Seo — Independent thinking. Practical building." />
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-improvv.github.io-DDF3E9?style=for-the-badge&logo=githubpages&logoColor=594E70)](https://improvv.github.io/portfolio/)
-[![Blog](https://img.shields.io/badge/Blog-howsitgoin.tistory.com-E8DFF8?style=for-the-badge&logo=tistory&logoColor=594E70)](https://howsitgoin.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-jinjeong619%40gmail.com-F7DFE8?style=for-the-badge&logo=gmail&logoColor=594E70)](mailto:jinjeong619@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-improvv.github.io-171717?style=for-the-badge&logo=githubpages&logoColor=f5ebd3)](https://improvv.github.io/portfolio/)
+[![Blog](https://img.shields.io/badge/Blog-howsitgoin.tistory.com-171717?style=for-the-badge&logo=tistory&logoColor=f5ebd3)](https://howsitgoin.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jinjeong619%40gmail.com-dc382b?style=for-the-badge&logo=gmail&logoColor=f5ebd3)](mailto:jinjeong619@gmail.com)
 
 </div>
 
@@ -26,22 +23,26 @@ Computer vision · Building apps · Learning in public
 
 <br/>
 
-## About Me
+<a id="about-me"></a>
 
-- 🎓 Computer Engineering at **Hanbat National University** (expected graduation Feb 2027)
-- 👀 Interested in **computer vision**
-- 🦁 Organizing a study group at **LIKELION**
-- ✍️ Writing about what I learn at [howsitgoin.tistory.com](https://howsitgoin.tistory.com)
-- ☄️ See all my work at my [portfolio](https://improvv.github.io/portfolio/)
+## <img src="./assets/section-about-me.svg" width="100%" alt="01 / ABOUT ME" />
+
+- Computer Engineering at **Hanbat National University** (expected graduation Feb 2027)
+- Interested in **computer vision**
+- Organizing a study group at **LIKELION**
+- Writing about what I learn at [howsitgoin.tistory.com](https://howsitgoin.tistory.com)
+- See all my work at my [portfolio](https://improvv.github.io/portfolio/)
 
 <br/>
 
-## Projects
+<a id="projects"></a>
+
+## <img src="./assets/section-projects.svg" width="100%" alt="02 / SELECTED WORKS" />
 
 Building useful things, from mobile apps to computer vision and interactive systems.<br/>
 [View the full portfolio ↗](https://improvv.github.io/portfolio/)
 
-### 🐾 견주여행 · Gyeonju Travel
+### WK—01 / 견주여행 · Gyeonju Travel
 `2026.06 – present` · **Released on the App Store**
 
 A dog-friendly travel app for Gyeongju with personalized routes, maps, schedules & arrival stamps.
@@ -55,7 +56,7 @@ A dog-friendly travel app for Gyeongju with personalized routes, maps, schedules
 
 ---
 
-### 🏋️ BPT
+### WK—02 / BPT
 `2026 – present` · **Capstone II in progress** · 3-person team
 
 An AI training app that analyzes exercise posture on-device using an iPhone camera.
@@ -67,7 +68,7 @@ An AI training app that analyzes exercise posture on-device using an iPhone came
 
 ---
 
-### 👁️ MorseLingo
+### WK—03 / MorseLingo
 `2026.10` · **Prototype complete** · Personal project
 
 A webcam-based Korean Morse code practice tool that turns short and long eye blinks into dots and dashes.
@@ -102,7 +103,9 @@ A webcam-based Korean Morse code practice tool that turns short and long eye bli
 
 <br/>
 
-## Ongoing Research
+<a id="ongoing-research"></a>
+
+## <img src="./assets/section-ongoing-research.svg" width="100%" alt="03 / RESEARCH NOTES" />
 
 > Exploring efficient vision models and how language models follow a conversation.
 
@@ -120,7 +123,9 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 <br/>
 
-## Experience
+<a id="experience"></a>
+
+## <img src="./assets/section-experience.svg" width="100%" alt="04 / EXPERIENCE" />
 
 | Period | Organization & role | What I did |
 | :-- | :-- | :-- |
@@ -142,32 +147,27 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 <br/>
 
-## Tech Stack
+<a id="tech-stack"></a>
 
-<div align="center">
+## <img src="./assets/section-tech-stack.svg" width="100%" alt="05 / TOOLS &amp; TECHNOLOGIES" />
 
 **Computer Vision & AI**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=6" alt="CV & AI stack" />
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-171717?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-171717?style=flat-square) ![YOLO](https://img.shields.io/badge/YOLO-171717?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-171717?style=flat-square) ![MMPose / RTMPose](https://img.shields.io/badge/MMPose%20%2F%20RTMPose-171717?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-171717?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-171717?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-171717?style=flat-square)
 
-![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-111F68?style=flat-square&logo=ultralytics&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white)
-![MMPose](https://img.shields.io/badge/MMPose-RTMPose-B9A7F5?style=flat-square)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square)
+**App & Web**
 
-<br/>
+![Flutter](https://img.shields.io/badge/Flutter-171717?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-171717?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-171717?style=flat-square) ![Java](https://img.shields.io/badge/Java-171717?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-171717?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-171717?style=flat-square) ![HTML](https://img.shields.io/badge/HTML-171717?style=flat-square) ![CSS](https://img.shields.io/badge/CSS-171717?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square)
 
-**App · Web · Etc.**
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,spring,mysql,html,css,js,git,github,linux&perline=6" alt="Tech stack" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square)
 
 <br/>
 
-## A Little Corner of My GitHub
+<a id="a-little-corner-of-my-github"></a>
+
+## <img src="./assets/section-a-little-corner-of-my-github.svg" width="100%" alt="06 / OFF THE CLOCK" />
 
 <div align="center">
 
@@ -194,5 +194,5 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 <br/>
 
 <p align="center">
-  <sub>Always learning, always writing. Thanks for stopping by 🌱</sub>
+  <sub>INDEPENDENT THINKING. PRACTICAL BUILDING. — JINJEONG SEO</sub>
 </p>
