@@ -1,31 +1,15 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-editorial-dark-v2.svg" />
+  <img src="./assets/profile-editorial-light-v2.svg" width="100%" alt="Jinjeong Seo — Independent thinking. Practical building." />
+</picture>
 
-<img src="./assets/header.svg" width="100%" alt="Jinjeong Seo — Independent thinking. Practical building." />
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-improvv.github.io-171717?style=for-the-badge&logo=githubpages&logoColor=f5ebd3)](https://improvv.github.io/portfolio/)
-[![Blog](https://img.shields.io/badge/Blog-howsitgoin.tistory.com-171717?style=for-the-badge&logo=tistory&logoColor=f5ebd3)](https://howsitgoin.tistory.com)
-[![Gmail](https://img.shields.io/badge/Gmail-jinjeong619%40gmail.com-dc382b?style=for-the-badge&logo=gmail&logoColor=f5ebd3)](mailto:jinjeong619@gmail.com)
-
-</div>
-
-
-<p align="center">
-  <a href="#about-me">About</a> &nbsp;·&nbsp;
-  <a href="#projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#ongoing-research">Research</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Stack</a>
-</p>
-
-<br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-dc382b?style=flat-square)](https://improvv.github.io/portfolio/)
+[![Blog](https://img.shields.io/badge/BLOG-30363d?style=flat-square)](https://howsitgoin.tistory.com)
+[![Email](https://img.shields.io/badge/EMAIL-30363d?style=flat-square)](mailto:jinjeong619@gmail.com)
 
 <a id="about-me"></a>
 
-## <img src="./assets/section-about-me.svg" width="100%" alt="01 / ABOUT ME" />
+## 01 / About Me
 
 - Computer Engineering at **Hanbat National University** (expected graduation Feb 2027)
 - Interested in **computer vision**
@@ -33,11 +17,9 @@
 - Writing about what I learn at [howsitgoin.tistory.com](https://howsitgoin.tistory.com)
 - See all my work at my [portfolio](https://improvv.github.io/portfolio/)
 
-<br/>
-
 <a id="projects"></a>
 
-## <img src="./assets/section-projects.svg" width="100%" alt="02 / SELECTED WORKS" />
+## 02 / Selected Works
 
 Building useful things, from mobile apps to computer vision and interactive systems.<br/>
 [View the full portfolio ↗](https://improvv.github.io/portfolio/)
@@ -101,11 +83,9 @@ A webcam-based Korean Morse code practice tool that turns short and long eye bli
 
 </details>
 
-<br/>
-
 <a id="ongoing-research"></a>
 
-## <img src="./assets/section-ongoing-research.svg" width="100%" alt="03 / RESEARCH NOTES" />
+## 03 / Research Notes
 
 > Exploring efficient vision models and how language models follow a conversation.
 
@@ -121,11 +101,9 @@ Natural Language Processing · Team Project
 
 An evaluation framework under speaker, addressee & discourse-entity shifts.
 
-<br/>
-
 <a id="experience"></a>
 
-## <img src="./assets/section-experience.svg" width="100%" alt="04 / EXPERIENCE" />
+## 04 / Experience
 
 | Period | Organization & role | What I did |
 | :-- | :-- | :-- |
@@ -145,11 +123,9 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 </details>
 
-<br/>
-
 <a id="tech-stack"></a>
 
-## <img src="./assets/section-tech-stack.svg" width="100%" alt="05 / TOOLS &amp; TECHNOLOGIES" />
+## 05 / Tools & Technologies
 
 **Computer Vision & AI**
 
@@ -163,11 +139,9 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 ![Git](https://img.shields.io/badge/Git-171717?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-171717?style=flat-square)
 
-<br/>
-
 <a id="a-little-corner-of-my-github"></a>
 
-## <img src="./assets/section-a-little-corner-of-my-github.svg" width="100%" alt="06 / OFF THE CLOCK" />
+## 06 / Off The Clock
 
 <div align="center">
 
