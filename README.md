@@ -143,6 +143,21 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 ## 06 / Off The Clock
 
+### When I Commit
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improvv&amp;theme=github_dark&amp;utcOffset=9&amp;title_color=dc382b&amp;text_color=f5ebd3&amp;chart_color=dc382b&amp;bg_color=00000000" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improvv&amp;theme=github&amp;utcOffset=9&amp;title_color=dc382b&amp;text_color=171717&amp;chart_color=dc382b&amp;bg_color=00000000" width="400" alt="Commits by hour of day, Korea Standard Time (UTC+9)" />
+</picture>
+
+<p><sub>Korea Standard Time · UTC+9</sub></p>
+
+</div>
+
+<br/>
+
 <div align="center">
 
 <a href="https://www.gitanimals.org/">
