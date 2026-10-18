@@ -145,16 +145,17 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 ### When I Commit
 
-<div align="center">
+<!--START_SECTION:commit-times-->
+```text
+🌞 Morning    80 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.84%
+🌆 Daytime   122 commits  ██████░░░░░░░░░░░░░░░░░░░  25.68%
+🌃 Evening   195 commits  ██████████░░░░░░░░░░░░░░░  41.05%
+🌙 Night      78 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.42%
+```
+<!--END_SECTION:commit-times-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improvv&amp;theme=github_dark&amp;utcOffset=9&amp;title_color=dc382b&amp;text_color=f5ebd3&amp;chart_color=dc382b&amp;bg_color=00000000" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=improvv&amp;theme=github&amp;utcOffset=9&amp;title_color=dc382b&amp;text_color=171717&amp;chart_color=dc382b&amp;bg_color=00000000" width="400" alt="Commits by hour of day, Korea Standard Time (UTC+9)" />
-</picture>
-
-<p><sub>Korea Standard Time · UTC+9</sub></p>
-
-</div>
+<sub>Recent public commits (up to 1,000) · Korea Standard Time (UTC+9)<br/>
+Morning 06–12 · Daytime 12–18 · Evening 18–24 · Night 00–06</sub>
 
 <br/>
 

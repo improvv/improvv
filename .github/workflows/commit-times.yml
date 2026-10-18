@@ -1,0 +1,33 @@
+name: Update commit times
+
+on:
+  schedule:
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: commit-times
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update morning, daytime, evening and night stats
+        run: python3 scripts/update_commit_times.py
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Commit updated stats
+        run: |
+          if git diff --quiet -- README.md; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update commit time stats"
+          git pull --rebase origin main
+          git push origin HEAD:main
