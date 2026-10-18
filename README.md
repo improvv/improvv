@@ -146,12 +146,31 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 ### When I Commit
 
 <!--START_SECTION:commit-times-->
-```text
-🌞 Morning    80 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.84%
-🌆 Daytime   122 commits  ██████░░░░░░░░░░░░░░░░░░░  25.68%
-🌃 Evening   195 commits  ██████████░░░░░░░░░░░░░░░  41.05%
-🌙 Night      78 commits  ████░░░░░░░░░░░░░░░░░░░░░  16.42%
-```
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<b>🌞 By Time of Day</b>
+<pre>🌞 Morning    80  ██░░░░░░░░  16.8%
+🌆 Daytime   122  ███░░░░░░░  25.6%
+🌃 Evening   196  ████░░░░░░  41.2%
+🌙 Night      78  ██░░░░░░░░  16.4%</pre>
+
+</td>
+<td width="50%" valign="top">
+
+<b>📅 By Day of Week</b>
+<pre>Mon   70  █░░░░░░░░░  14.7%
+Tue   77  ██░░░░░░░░  16.2%
+Wed   48  █░░░░░░░░░  10.1%
+Thu  103  ██░░░░░░░░  21.6%
+Fri   81  ██░░░░░░░░  17.0%
+Sat   52  █░░░░░░░░░  10.9%
+Sun   45  █░░░░░░░░░   9.5%</pre>
+
+</td>
+</tr>
+</table>
 <!--END_SECTION:commit-times-->
 
 <sub>Recent public commits (up to 1,000) · Korea Standard Time (UTC+9)<br/>
@@ -169,14 +188,13 @@ Morning 06–12 · Daytime 12–18 · Evening 18–24 · Night 00–06</sub>
 
 <br/>
 
-### Contribution Snake
+### Contributions in 3D
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/improvv/improvv/output/contribution-editorial.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img alt="GitHub contributions as a 3D skyline" src="./profile-3d-contrib/profile-green.svg" width="100%" />
 </picture>
 
 </div>

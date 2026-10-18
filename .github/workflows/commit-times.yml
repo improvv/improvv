@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - name: Update morning, daytime, evening and night stats
+      - uses: actions/checkout@v5
+      - name: Update time of day and weekday stats
         run: python3 scripts/update_commit_times.py
         env:
           GH_TOKEN: ${{ github.token }}
