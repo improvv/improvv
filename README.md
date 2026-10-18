@@ -131,9 +131,9 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square) ![MediaPipe](https://img.shields.io/badge/MediaPipe-007F8B?style=flat-square) ![MMPose / RTMPose](https://img.shields.io/badge/MMPose%20%2F%20RTMPose-7952B3?style=flat-square) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-147D64?style=flat-square)
 
-**App & Web**
+**Frontend & Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-027DB5?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD7400?style=flat-square&logo=firebase&logoColor=white) ![Java](https://img.shields.io/badge/Java-B44925?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-43852D?style=flat-square&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-D54824?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
+![Flutter](https://img.shields.io/badge/Flutter-027DB5?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-D54824?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=171717)
 
 **Tools**
 
@@ -143,41 +143,6 @@ An evaluation framework under speaker, addressee & discourse-entity shifts.
 
 ## 06 / Off The Clock
 
-### When I Commit
-
-<!--START_SECTION:commit-times-->
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<b>🌞 By Time of Day</b>
-<pre>🌞 Morning    80  ██░░░░░░░░  16.8%
-🌆 Daytime   122  ███░░░░░░░  25.6%
-🌃 Evening   196  ████░░░░░░  41.2%
-🌙 Night      78  ██░░░░░░░░  16.4%</pre>
-
-</td>
-<td width="50%" valign="top">
-
-<b>📅 By Day of Week</b>
-<pre>Mon   70  █░░░░░░░░░  14.7%
-Tue   77  ██░░░░░░░░  16.2%
-Wed   48  █░░░░░░░░░  10.1%
-Thu  103  ██░░░░░░░░  21.6%
-Fri   81  ██░░░░░░░░  17.0%
-Sat   52  █░░░░░░░░░  10.9%
-Sun   45  █░░░░░░░░░   9.5%</pre>
-
-</td>
-</tr>
-</table>
-<!--END_SECTION:commit-times-->
-
-<sub>Recent public commits (up to 1,000) · Korea Standard Time (UTC+9)<br/>
-Morning 06–12 · Daytime 12–18 · Evening 18–24 · Night 00–06</sub>
-
-<br/>
-
 <div align="center">
 
 <a href="https://www.gitanimals.org/">
@@ -185,22 +150,3 @@ Morning 06–12 · Daytime 12–18 · Evening 18–24 · Night 00–06</sub>
 </a>
 
 </div>
-
-<br/>
-
-### Contributions in 3D
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
-  <img alt="GitHub contributions as a 3D skyline" src="./profile-3d-contrib/profile-green.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<p align="center">
-  <sub>INDEPENDENT THINKING. PRACTICAL BUILDING. — JINJEONG SEO</sub>
-</p>
