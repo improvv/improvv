@@ -56,7 +56,7 @@ A webcam tool for practicing Korean Morse code through eye blinks.<br/>
 
 ## 03 / Research Notes
 
-- **Lightweight Deep Learning** — Studying pruning, quantization and distillation with EfficientSAM.
+- **[HAR Quantization](https://github.com/IoT-Kimjangs/har-quantization)** — Measuring how Keras, TFLite FP32/FP16/INT8 affect size, latency, memory and accuracy of a sensor-based activity recognition Transformer.
 - **Null-Argument Tracking** — Evaluating Korean multi-turn dialogue under speaker and context shifts.
 
 <a id="experience"></a>
