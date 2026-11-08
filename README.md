@@ -23,7 +23,7 @@ A dog-friendly Gyeongju travel app with personalized routes and maps.<br/>
 **PM · Frontend** — Shipped on the App Store after five TestFlight betas.
 Service discontinued; no longer available on the App Store.
 
-`React Native` `Expo` `TypeScript` · [Project details & screenshots ↗](https://improvv.github.io/portfolio/#/projects/pet-travel)
+`React Native` `Expo` `TypeScript`
 
 ### WK—02 / BPT
 An on-device AI fitness app that analyzes posture using an iPhone camera.<br/>
